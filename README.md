@@ -30,4 +30,4 @@ You can draw freely, pick your favorite colors, adjust brush size, and undo/redo
 🧰 How to Run Locally
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/collaborative-canvas.git
+   git clone https://github.com/S4njana/collaborative-canvas.git
