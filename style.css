@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+}
+
+.toolbar {
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+canvas {
+  border: 2px solid #333;
+  background-color: white;
+  cursor: crosshair;
+}
+#colorPicker {
+  border: none;
+  width: 40px;
+  height: 30px;
+  cursor: pointer;
+}
+
